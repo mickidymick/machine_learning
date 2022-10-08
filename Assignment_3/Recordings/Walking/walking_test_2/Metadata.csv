@@ -1,0 +1,2 @@
+version,device name,recording time,platform,appVersion,device id,sensors,sampleRateMs
+3,SM-S908U,2022-09-28_11-20-57,android,1.11.0,3b09146d-84d3-404b-9cf0-464f075729bd,Accelerometer|Gyroscope|Annotation|TotalAcceleration|GyroscopeUncalibrated|AccelerometerUncalibrated,0|0||0|0|0
